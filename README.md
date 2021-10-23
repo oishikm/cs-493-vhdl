@@ -1,2 +1,4 @@
 # cs-493-vhdl
-VHDL (Altera) projects from CS-493 (Computer Architecture Lab)
+VHDL (Altera) projects from CS-493 (Computer Architecture Lab).
+
+B. Tech., Computer Science & Engineering, WBUT (MAKAUT).
